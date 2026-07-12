@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="House lemonade">
+  <rect width="640" height="480" fill="#f7fee7"/>
+  <path d="M230 145h180l-26 255H256z" fill="#fde68a" stroke="#8a6a00" stroke-width="12"/>
+  <path d="M274 95c55 10 86 42 105 94-54-9-87-43-105-94z" fill="#22c55e" stroke="#166534" stroke-width="8"/>
+  <circle cx="432" cy="170" r="42" fill="#facc15" stroke="#8a6a00" stroke-width="9"/>
+  <path d="M432 128v84M390 170h84" stroke="#fffbe6" stroke-width="7"/>
+</svg>

@@ -1,0 +1,31 @@
+services:
+  restaurant-terminal:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: app
+    ports:
+      - "8080:8080"
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:8080
+      ConnectionStrings__RestaurantTerminal: Data Source=/app/data/restaurant-terminal.db
+    volumes:
+      - restaurant-terminal-data:/app/data
+
+  backend-tests:
+    profiles: ["test"]
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: backend-tests
+
+  frontend-tests:
+    profiles: ["test"]
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: frontend-tests
+
+volumes:
+  restaurant-terminal-data:

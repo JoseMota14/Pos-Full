@@ -1,0 +1,16 @@
+.git
+.github
+.vs
+.agents
+**/bin
+**/obj
+**/node_modules
+**/dist
+**/.vite
+**/*.user
+**/*.suo
+*.db
+*.db-shm
+*.db-wal
+restaurant-terminal.db
+New Text Document.txt

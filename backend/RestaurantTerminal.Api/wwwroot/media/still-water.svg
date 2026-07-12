@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Still water">
+  <rect width="640" height="480" fill="#e8f5ff"/>
+  <rect x="260" y="90" width="120" height="310" rx="32" fill="#bde3ff" stroke="#47799a" stroke-width="12"/>
+  <rect x="282" y="55" width="76" height="50" rx="14" fill="#47799a"/>
+  <rect x="280" y="200" width="80" height="95" rx="14" fill="#ffffff" opacity=".8"/>
+  <text x="320" y="258" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#47799a">H2O</text>
+</svg>

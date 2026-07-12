@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Sparkling water">
+  <rect width="640" height="480" fill="#eef8ff"/>
+  <rect x="255" y="90" width="130" height="310" rx="34" fill="#c9efff" stroke="#3c7d96" stroke-width="12"/>
+  <rect x="282" y="55" width="76" height="50" rx="14" fill="#3c7d96"/>
+  <circle cx="295" cy="210" r="10" fill="#ffffff"/>
+  <circle cx="340" cy="250" r="8" fill="#ffffff"/>
+  <circle cx="310" cy="300" r="7" fill="#ffffff"/>
+  <circle cx="360" cy="330" r="11" fill="#ffffff"/>
+</svg>

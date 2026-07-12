@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Tomato soup">
+  <rect width="640" height="480" fill="#fff1f2"/>
+  <ellipse cx="320" cy="260" rx="180" ry="70" fill="#b91c1c"/>
+  <path d="M150 250h340l-45 115H195z" fill="#fee2e2" stroke="#7f1d1d" stroke-width="12"/>
+  <ellipse cx="320" cy="245" rx="165" ry="58" fill="#ef4444"/>
+  <path d="M280 230c35-28 82-28 118 0" fill="none" stroke="#fecaca" stroke-width="12" stroke-linecap="round"/>
+</svg>

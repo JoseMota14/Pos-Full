@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Vegetable soup">
+  <rect width="640" height="480" fill="#f0fdf4"/>
+  <path d="M150 250h340l-45 115H195z" fill="#dcfce7" stroke="#166534" stroke-width="12"/>
+  <ellipse cx="320" cy="245" rx="165" ry="58" fill="#86efac"/>
+  <circle cx="270" cy="240" r="16" fill="#f97316"/>
+  <circle cx="325" cy="225" r="13" fill="#22c55e"/>
+  <circle cx="378" cy="248" r="15" fill="#eab308"/>
+  <path d="M250 185c65-35 128-30 188 12" fill="none" stroke="#166534" stroke-width="12" stroke-linecap="round"/>
+</svg>

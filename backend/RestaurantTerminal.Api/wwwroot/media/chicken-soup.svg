@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Chicken soup">
+  <rect width="640" height="480" fill="#fff7ed"/>
+  <path d="M150 250h340l-45 115H195z" fill="#ffedd5" stroke="#9a3412" stroke-width="12"/>
+  <ellipse cx="320" cy="245" rx="165" ry="58" fill="#fed7aa"/>
+  <path d="M250 235h145M270 265h110" stroke="#f97316" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="415" cy="230" r="20" fill="#fef3c7" stroke="#9a3412" stroke-width="7"/>
+</svg>

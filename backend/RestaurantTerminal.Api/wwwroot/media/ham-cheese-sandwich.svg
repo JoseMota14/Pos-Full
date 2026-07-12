@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Ham and cheese sandwich">
+  <rect width="640" height="480" fill="#fffbeb"/>
+  <path d="M170 265 320 130l150 135z" fill="#f8d68b" stroke="#92400e" stroke-width="12"/>
+  <path d="M205 265h230l-38 75H242z" fill="#fca5a5" stroke="#991b1b" stroke-width="10"/>
+  <path d="M235 300h170l-28 45H262z" fill="#fde047"/>
+</svg>

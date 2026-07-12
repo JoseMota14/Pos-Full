@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/RestaurantTerminal.Api.Tests/RestaurantTerminal.Api.Tests.csproj" />
+    <Project Path="backend/RestaurantTerminal.Api/RestaurantTerminal.Api.csproj" />
+  </Folder>
+</Solution>

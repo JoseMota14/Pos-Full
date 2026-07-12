@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Chicken club sandwich">
+  <rect width="640" height="480" fill="#fefce8"/>
+  <path d="M150 300h340l-60 65H210z" fill="#f8d68b" stroke="#854d0e" stroke-width="12"/>
+  <path d="M190 250h260l-30 55H220z" fill="#fef3c7" stroke="#a16207" stroke-width="9"/>
+  <path d="M210 225h220" stroke="#16a34a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M230 190h180l-22 45H252z" fill="#fca5a5" stroke="#991b1b" stroke-width="8"/>
+</svg>

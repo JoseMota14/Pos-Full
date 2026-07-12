@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Orange juice">
+  <rect width="640" height="480" fill="#fff2dc"/>
+  <path d="M230 145h180l-28 255H258z" fill="#f59e0b" stroke="#9a5a00" stroke-width="12"/>
+  <path d="M250 185h140l-8 70H258z" fill="#ffd166" opacity=".55"/>
+  <circle cx="430" cy="150" r="55" fill="#fb923c" stroke="#9a5a00" stroke-width="10"/>
+  <path d="M430 95v110M375 150h110M391 111l78 78M469 111l-78 78" stroke="#fff7ed" stroke-width="7"/>
+</svg>
